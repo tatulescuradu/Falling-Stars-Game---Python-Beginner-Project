@@ -19,5 +19,4 @@ Run the game using the command python falling_stars.py.
 Contributions
 Contributions are welcome! If you'd like to contribute to this project, please open a pull request with the proposed enhancements.
 
-Author
 This game was created by Tatulescu Radu Nicolaie
